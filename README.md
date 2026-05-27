@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou Thales Chagas
 
-<!--
-**Thales-Chagas/Thales-Chagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em aprendizado contínuo, criando aplicações modernas com React, Next.js, Node.js, PostgreSQL e foco em performance, responsividade e experiência do usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tecnologias
+
+* JavaScript
+* React
+* Next.js
+* Node.js
+* PostgreSQL
+* Vite
+* PWA
+* HTML5
+* CSS3
+* Git & GitHub
+
+---
+
+# 🥩 Projeto em destaque
+
+## Premium Beef Sorocaba
+
+Site moderno desenvolvido para um açougue premium, focado em identidade visual forte, experiência moderna e futura integração com sistema de precificação dinâmica em tempo real.
+
+🔗 Projeto online:
+https://premiumbeefsorocaba.netlify.app/
+
+🔗 Repositório:
+https://github.com/Thales-Chagas/premium-beef-sorocaba
+
+---
+
+# 📚 Atualmente estudando
+
+* Arquitetura Full Stack
+* APIs REST
+* Banco de dados
+* UI/UX moderno
+* Performance Web
+* Aplicações responsivas
+* Integrações em tempo real
+
+---
+
+# 🎯 Objetivo
+
+Evoluir constantemente como desenvolvedor e construir soluções modernas para negócios reais, unindo tecnologia, design e experiência do usuário.
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn
+https://linkedin.com
+
+📸 Instagram
+https://instagram.com/thalesxt_
